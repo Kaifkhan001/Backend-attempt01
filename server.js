@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 app.use(express.json());
 
 app.use(cors({
-  origin: ['https://full-stack-attempt-amny-5pwurnfna-kaifkhan001s-projects.vercel.app'],
+  origin: ['https://full-stack-attempt-f7ofsqupn-kaifkhan001s-projects.vercel.app'],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type'],
 }));
